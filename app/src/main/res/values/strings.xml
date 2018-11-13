@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simon Game</string>
+    <string name="startBtn">Start</string>
+    <string name="pushStart">Push START</string>
+    <string name="match">Correct</string>
+    <string name="showHighscore">Highscore</string>
+    <string name="newHighscore">New Highscore</string>
+</resources>

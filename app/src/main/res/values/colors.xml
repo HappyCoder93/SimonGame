@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#4a5556</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- individual colors -->
+    <color name="startBtn">#4a5556</color>
+    <color name="txtColor">#ffffff</color>
+    <color name="background">#000000</color>
+    <color name="redBtnColor">#f00</color>
+    <color name="blueBtnColor">#00f</color>
+    <color name="greenBtnColor">#0f0</color>
+    <color name="yellowBtnColor">#ff0</color>
+    <color name="btnEffectColor">#ffffff</color>
+
+</resources>
